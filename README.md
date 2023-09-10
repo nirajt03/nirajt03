@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **IKS Health**
 
-- 🌱 I’m currently learning **DevOps to create dashboard that shows real time test case execution status**
+- 🌱 I’m currently learning **DevOps to create real time dashboard(ELK stack + Jenkins + SonarQube + Docker) that shows real time test case execution status**
 
 - 👯 I’m looking to collaborate on **Selenium Automation Projects**
 
